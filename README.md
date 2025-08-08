@@ -1,9 +1,8 @@
-# Hey Everyone! I'm [ shaik juber ](https://github.com/shaikjuber3) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [ shaik juber ](https://github.com/shaikjuber786) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 # 💫 About Me:
 - 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... python. <br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
-Tips and strategies for mastering Python.
 Practical approaches to task-based learning in programming.
 How to effectively prepare for Python programming interviews.
 <br>- 📫 How to reach me: ... shaikjuber502@gmail.com
@@ -11,7 +10,7 @@ How to effectively prepare for Python programming interviews.
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/Shaik Juber/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a><a 
+<a href="https://www.linkedin.com/in/shaik-juber-907919300/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <br><br>
 
